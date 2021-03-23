@@ -1,0 +1,15 @@
+#mycarousel {
+    background-color: pink;
+}
+
+#mycarousel img {
+    height: 500px;
+    width: 50%;
+    margin: 20px
+}
+
+.carousel-inner h2 {
+    font-size: 25px;
+    margin: 15px;
+    color: blueviolet;
+}
